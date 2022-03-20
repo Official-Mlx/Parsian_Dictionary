@@ -1,1 +1,1 @@
-# Parsian_Dictionary
+{"v":"1.3","i":"• رفع باگ"}
